@@ -2,9 +2,9 @@ import sys
 import datetime
 from PyQt5.QtWidgets import QApplication, QMainWindow, QFileDialog
 from PyQt5.QtCore import QTimer, Qt
-from проект6 import Ui_MainWindow
-from проект7 import Ui_Dialog1
-from проект9 import Ui_Dialog
+from calendar import Ui_MainWindow
+from first_dialog import Ui_Dialog1
+from second_dialog import Ui_Dialog
 from PyQt5 import QtCore, QtMultimedia
 import sqlite3
 from PyQt5.QtWidgets import QApplication, QWidget, QPushButton
